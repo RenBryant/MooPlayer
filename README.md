@@ -65,7 +65,7 @@ Use the command npm run watch in the server folder and npm start in the client f
 
 
 ## Usage
-In this app the use is able to sing up and log in to their own specific credentials. Their password is hashed using bcrypt and JWT, so no need to worry about security. Then the user is able to search for whatever book they want using our search bar that grabs information from the API. The user is able to save books that they like to their profile, and then also delete them when they view their profile. And of course the user is also able to log out of their account, and then log back in whenever they want.
+In this app the user is able to sing up and log in to their own specific credentials. Their password is hashed using bcrypt and JWT, so no need to worry about security. Then the user is able to search for whatever book they want using our search bar that grabs information from the API. The user is able to save books that they like to their profile, and then also delete them when they view their profile. And of course the user is also able to log out of their account, and then log back in whenever they want.
 
 
 ## Technologies
